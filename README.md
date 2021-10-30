@@ -1,2 +1,3 @@
 # formsAngular
- Angular Forms - Template Driven and Reactive approach
+ Angular Forms - Template Driven Approach
+ 
